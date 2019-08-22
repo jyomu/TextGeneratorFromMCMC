@@ -1,3 +1,5 @@
+# coding:utf-8
+
 from janome.tokenizer import Tokenizer
 from collections import defaultdict
 from tqdm import tqdm
